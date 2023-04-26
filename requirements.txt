@@ -1,0 +1,5 @@
+random
+tkinter
+from tkinter import messagebox
+pyperclip
+json
